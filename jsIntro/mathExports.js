@@ -26,3 +26,5 @@ function defaultFun(){
 }
 
 export { add, sub, mul, div, pi, defaultFun };
+
+// module.exports = { add, sub, mul, div, pi, defaultFun }; // for node.js
